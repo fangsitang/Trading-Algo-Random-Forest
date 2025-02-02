@@ -16,7 +16,9 @@ Our trading strategy employs a multi-step approach that integrates technical ana
 
 
 
-Extra : To learn how we leverage machine learning, technical analysis and macroeconomic data, please refer to our [report] (https://github.com/fangsitang/Trading-Algo-Random-Forest/blob/bf3ad9d70a75e0b76c86fb454aa724c2de76731c/Rapport_ML_Trend-Following.pdf).
+Extra : To learn how we leverage machine learning, technical analysis and macroeconomic data, please refer the document below 👇
+
+📄 [Fund Facts](https://github.com/fangsitang/Trading-Algo-Random-Forest/blob/bf3ad9d70a75e0b76c86fb454aa724c2de76731c/Rapport_ML_Trend-Following.pdf)
 
 
 1) Firstly, we compute eight key technical indicators to inform our two models, using Ridge regression to forecast monthly returns and Random Forest to predict upward movement probabilities.
