@@ -1,6 +1,6 @@
-# Investor Overview 
+# Trend Following Trading Strategy 
 
-## Fund Profile ❗️
+## Fund Overview ❗️
 
 * Our fund seeks to deliver robust, risk-adjusted returns through a highly diversified portfolio spanning multiple asset classes and geographies.
   
