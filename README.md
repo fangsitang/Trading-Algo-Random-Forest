@@ -13,11 +13,14 @@ Our trading strategy employs a multi-step approach that integrates technical ana
 
 
 
-Extra : To learn how we leverage machine learning, technical analysis and macroeconomic data, please refer the document below 👇
+Extra : For more details on how we leverage machine learning, technical analysis and macroeconomic data, please refer the document below 👇
 
 📄 [Fund Facts](https://github.com/fangsitang/Trading-Algo-Random-Forest/blob/bf3ad9d70a75e0b76c86fb454aa724c2de76731c/Rapport_ML_Trend-Following.pdf)
 
 In essence, 
+
 * We compute 8 key technical indicators to inform our two machine learning models. One is a Ridge regression, used to forecast monthly returns. The other is a Random Forest, used to predict upward movement probabilities.
+  
 * These predictions are then converted into z-scores used to rank individual assets. Assets with a higher probability of moving upwards will have a higher z-score rank, and thus a larger allocation.
+  
 * The final weights are adjusted based on the prevailing macroeconomic regime, which are identified through K-means clustering. Each regime is associated with a fixed asset class allocation.
