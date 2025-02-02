@@ -10,12 +10,7 @@ Our trading strategy employs a multi-step approach that integrates technical ana
 
 ## Fund Fact Sheet 🥧
 
-
-<img src="Fund_Fact_Sheet.png" width="700" height="1000" />
-
-
-![Fund Fact Sheet](Fund_Fact_Sheet.png)
-
+<img src="Fund_Fact_Sheet.png" width="700" height="900" />
 
 Extra : For more details on how we leverage machine learning, technical analysis and macroeconomic data, please refer the document below 👇
 
