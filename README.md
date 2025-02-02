@@ -10,7 +10,8 @@ Our trading strategy employs a multi-step approach that integrates technical ana
 
 ## Fund Fact Sheet 🥧
 
-![Fund Fact Sheet]([https://example.com/path/to/image.jpg](https://github.com/fangsitang/Trading-Algo-Random-Forest/blob/4e544e8ae47628dee020f68f830fcf680a4fbc2f/Fund_Fact_Sheet.png))
+![Fund Fact Sheet](https://github.com/fangsitang/Trading-Algo-Random-Forest/main/Fund_Fact_Sheet.png=true)
+
 
 
 
